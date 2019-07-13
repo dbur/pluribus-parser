@@ -1,5 +1,5 @@
 # Parser for Pluribus Poker AI Hands
-[Data Source](https://science.sciencemag.org/content/early/2019/07/10/science.aay2400)
+[Data Source](https://science.sciencemag.org/highwire/filestream/728919/field_highwire_adjunct_files/1/aay2400_Data_File_S1.zip)
 
 Takes this:
 
@@ -59,4 +59,6 @@ BY NOAM BROWN, TUOMAS SANDHOLM
 PUBLISHED ONLINE11 JUL 2019
 
 DOI: 10.1126/science.aay2400
+
+https://science.sciencemag.org/content/early/2019/07/10/science.aay2400
 ```
