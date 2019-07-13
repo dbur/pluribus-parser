@@ -48,3 +48,15 @@ MrBrown 0
 - Check if stack sizes change or if each game starts with 10k
 - Clean up parser results
 - Get HUD-like stats on each player
+
+
+# References
+
+```
+Superhuman AI for multiplayer poker
+BY NOAM BROWN, TUOMAS SANDHOLM
+
+PUBLISHED ONLINE11 JUL 2019
+
+DOI: 10.1126/science.aay2400
+```
