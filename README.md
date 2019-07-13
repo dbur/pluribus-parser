@@ -42,3 +42,9 @@ MrWhite 0
 MrPink 0
 MrBrown 0
 ```
+
+# TODO:
+- Read paper
+- Check if stack sizes change or if each game starts with 10k
+- Clean up parser results
+- Get HUD-like stats on each player
